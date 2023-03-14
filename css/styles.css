@@ -1,0 +1,20 @@
+/* Page Styles */
+@charset "utf-8";
+/* CSS Document */
+body {
+    margin: 0;
+    padding: 0;
+}
+/* Set the container to fill the entire viewport */
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* Set the column width and add some margin */
+.column {
+    width: 50%;
+    margin: 0 1em;
+}
+
